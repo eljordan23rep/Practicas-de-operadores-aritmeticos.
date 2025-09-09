@@ -1,5 +1,5 @@
 print("ingrese los valores para calcular el valor de R2 en un regulador de voltaje LM317")
-#(variable)(funcion)(string )
+#(variable)(funcion)(string se convierte a float)
 Vo = float(input("Ingresa el voltaje de salida Vo: "))
 R1 = float(input("Ingresa el valor de R1 en ohms: "))
 
